@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../.."
+		},
+		{
+			"path": "../../../../../../../../api-rest-instruccion-detalles"
+		},
+		{
+			"path": "../../../../../../../../api-rest-libros-bidireccion"
+		},
+		{
+			"path": "../../../../../../../../api-rest-publicaciones-comentarios"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}
